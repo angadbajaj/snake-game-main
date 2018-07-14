@@ -1,5 +1,4 @@
 // bonus project.cpp : Defines the entry point for the console application.
-//Made by angad singh bajaj and pranjal keshari
 
 #include"stdafx.h"
 #include <iostream>
